@@ -5,7 +5,7 @@
 > *Описание задачи*
 > Даны граф G=⟨V,E⟩ и число k. Необходимо проверить, правда ли, что можно раскрасить вершины графа в k цветов так, чтобы любые две вершины, соединённые ребром, имели разные цвета.
 
-![.](../../../../Typora Assets/png-transparent-graph-coloring-graph-theory-vertex-mathematics-mathematics-angle-triangle-symmetry-thumbnail.png)
+![.](https://w7.pngwing.com/pngs/867/829/png-transparent-graph-coloring-graph-theory-vertex-mathematics-mathematics-angle-triangle-symmetry-thumbnail.png)
 
 > Зачастую количество цветов меньше хроматического числа, что требует поиска решения, минимизирующего количество конфликтов, то есть количество ребер с узлами одинаковых цветов. Кроме того, раскраска графов в общем случае является NP-сложной задачей. 5
 
