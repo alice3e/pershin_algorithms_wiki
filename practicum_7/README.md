@@ -1,14 +1,6 @@
----
-id: Untitled
-created_date: 03/05/2024
-updated_date: 03/05/2024
-type: термин
-tags:
-  - math
-parent: "[[]]"
----
 
-![[Pasted image 20240503013054.png]]
+<img width="758" alt="image" src="https://github.com/weterperm/pershin_algorithms_wiki/assets/44847478/ba4ed6e1-f8a9-4e51-b3b5-6d84bf595366">
+
 
 ### Вся теория написана с помощью [Obsidian.md](https://obsidian.md/)
 
@@ -20,13 +12,17 @@ parent: "[[]]"
 2) Откройте obsidian
 3) Вы увидите окно выбора хранилища
 4) нажмите open folder as vault
-5) ![[Pasted image 20240503013520.png]]
+5) <img width="480" alt="image" src="https://github.com/weterperm/pershin_algorithms_wiki/assets/44847478/cacc5b1e-a637-41ad-96b8-f5ebbde7f1f1">
+
 6) Выберите папку *pershin_wiki_obsidian*
-![[Pasted image 20240503013610.png]]
+<img width="743" alt="image" src="https://github.com/weterperm/pershin_algorithms_wiki/assets/44847478/3c08a406-0cf6-45a8-a56d-72363746defe">
+
 7) Откройте папку
-![[Pasted image 20240503013630.png]]
+<img width="1512" alt="image" src="https://github.com/weterperm/pershin_algorithms_wiki/assets/44847478/33ad1af6-43e9-457e-bd5a-5dbd695986eb">
+
 8) Выберите значок графа в верхнем левом углу
-9) ![[Pasted image 20240503013701.png]]
+9) <img width="45" alt="image" src="https://github.com/weterperm/pershin_algorithms_wiki/assets/44847478/764b7c23-5154-421b-bf47-21afaf8bac6e">
+
 10)  Начните изучать материал
 11) учитывайте, синие ссылки ведут на другие файлы, либо на сайты или видео.
 12)  Ботайте😈
