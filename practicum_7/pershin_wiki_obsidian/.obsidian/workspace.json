@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "75dbc84c1b6eb139",
+    "type": "split",
+    "children": [
+      {
+        "id": "1335c28f19012e17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe0dcc455b5ca2f4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "948d20435bc1f3a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "f72672b7ab278939",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "549e558b843a0bc6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aa0f040f2b1f0a75",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "056252906861a0a2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d5b8174da7a23b33",
+    "type": "split",
+    "children": [
+      {
+        "id": "babf468224a684e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7bbfa3234c5830b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9c9148ed59c31e90",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0b44276823055e21",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c76fad9c9702d89a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "fe0dcc455b5ca2f4",
+  "lastOpenFiles": [
+    "Main/study/Math/Linear Algebra/Алгоритм Грама-Шмидта.md",
+    "Main/study/Math/Linear Algebra/Разложение матриц.md",
+    "Main/study/Math/Linear Algebra/Определитель.md",
+    "Main/study/Math/Linear Algebra/Виды матриц.md",
+    "src/devicon-master/CODE_OF_CONDUCT.md",
+    "Untitled.md",
+    "подпространства Крылова.md",
+    "эрмитовой.md",
+    "Main/study/Math/Linear Algebra/Метод Гаусса.md"
+  ]
+}

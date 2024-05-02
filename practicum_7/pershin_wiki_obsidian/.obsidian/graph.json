@@ -1,0 +1,37 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Main/study/Programming  ",
+      "color": {
+        "a": 1,
+        "rgb": 15278112
+      }
+    },
+    {
+      "query": "path:\"Main/study/Math/Linear Algebra\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 2374640
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.61350504557292,
+  "lineSizeMultiplier": 1.73931477864583,
+  "collapse-forces": false,
+  "centerStrength": 0.283894856770833,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 235,
+  "scale": 0.48198745386564745,
+  "close": true
+}
