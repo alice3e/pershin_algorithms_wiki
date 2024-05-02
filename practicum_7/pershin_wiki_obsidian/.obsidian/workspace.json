@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1335c28f19012e17",
+        "id": "f0a6bfff2b09599a",
         "type": "tabs",
         "children": [
           {
-            "id": "fe0dcc455b5ca2f4",
+            "id": "c233bdde91c22be4",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -138,8 +138,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe0dcc455b5ca2f4",
+  "active": "c233bdde91c22be4",
   "lastOpenFiles": [
+    "Main/study/Math/Linear Algebra/QR - разложение.md",
+    "Main/study/Programming/Algorithms/Трансформация хаусхолдера.md",
     "Main/study/Math/Linear Algebra/Алгоритм Грама-Шмидта.md",
     "Main/study/Math/Linear Algebra/Разложение матриц.md",
     "Main/study/Math/Linear Algebra/Определитель.md",
